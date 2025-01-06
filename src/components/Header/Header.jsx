@@ -10,7 +10,7 @@ const Header = () => {
             <div className="container flexSB">
                  <nav className="flexSB">
                     <div className="logo">
-                        <img src="./assets/logo.jpeg" alt=""/>
+                        <img src="./assets/logo.png" alt=""/>
                     </div>
                     <ul className={mobile ? "navMenu-list" : 'flexSB'} onClick={() => setMobile(false)}>
                         <Link to='/'>Home</Link>
