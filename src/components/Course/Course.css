@@ -1,0 +1,32 @@
+.heading {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    color: white;
+  }
+  
+  .heading a {
+    color: #daa520;
+  }
+
+.CourseSection{
+    width: 100Vhw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+ .CourseContainer {
+    width: 90vw;
+    flex-direction: column;
+    display: flex;
+    justify-items:center;
+    justify-content: center;
+   
+  }
+
+  
+ 
+  
